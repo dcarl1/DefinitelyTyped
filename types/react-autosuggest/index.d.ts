@@ -5,7 +5,7 @@
 // TypeScript Version: 2.3
 
 import * as React from 'react';
-declare class Autosuggest extends React.Component<any> {}
+declare class Autosuggest extends React.Component<any> { static default: any; }
 
 export = Autosuggest;
 
